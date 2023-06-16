@@ -1,1 +1,2 @@
-# Minicase1
+# Evidence 2: Integrative Blog 
+I honestly learned a lot during this curse even though it was a short amout of time, all of the topics were very interesting to learn and see how we can apply them to solve problems like the pet food one. I really liked that we made a lot of different exercises to strengthen the topics we saw during class. It was challenging at first but once I understod what each line of code does it became more simple, I consider programing is a very useful tool we can use to solve different types of problems. 
